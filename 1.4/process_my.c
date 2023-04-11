@@ -86,7 +86,7 @@ void waitto()
 	}
 	if (w_sign[0] == 'Q')
 	{
-		signofwait = 2;
+		signofwait = 0;
 		return ;
 	}
 	if (w_sign[0] == 'M')
